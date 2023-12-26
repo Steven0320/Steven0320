@@ -1,5 +1,5 @@
 body {
-  background: black;
+  background: white;
 }
 .title{
   border: 10px solid #00BFFF;
@@ -9,5 +9,5 @@ body {
 
 .subheading{
   font-size: 15px;
-  color: white;
+  color: black;
 }
