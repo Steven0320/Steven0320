@@ -1,8 +1,8 @@
 body {
-  background: blue;
+  background: black;
 }
 .title{
-  border: 10px solid purple;
+  border: 10px solid #00BFFF;
   color: white;
   background-color: #00BFFF;
 }
