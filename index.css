@@ -2,6 +2,12 @@ body {
   background: blue;
 }
 .title{
-  border: 1px solid purple;
+  border: 10px solid purple;
+  color: white;
+  background-color: #00BFFF;
+}
+
+.subheading{
+  font-size: 15px;
   color: white;
 }
