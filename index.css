@@ -44,7 +44,7 @@ body {
 
 .menuitem:hover{
 	background-color: #7B68EE;
-	border: 5px solid #7B68EE;
+	border: 1px solid #7B68EE;
 	color: white;
 }
 
