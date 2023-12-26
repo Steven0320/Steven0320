@@ -1,4 +1,8 @@
+* {
+  background: black;
+}
 head{
+  border: 1px solid purple;
   background-Color: blue;
-  color: green;
+  color: white;
 }
