@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.main-header{
+    color:white;
+    background-color: 303841;
+    text-indent: 5px;
+
+}
+body{
+    background-color: black;
+}
+.top-banner{
+    /*Banner Main Components*/
+    background-color: yellow;
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 0%;
+    text-indent: 5px;
+    /*Banner Border*/
+    border: 3px solid black;
+
+}
+/*Menu Bar*/
+.menu-bar{
+    
+}
+/*Menu Bar Links*/
+.menu-item:link{
+    color:white;
+}
+.menu-item:visited{
+    color:white;
+}
+.menu-item:hover{
+    color:#1d1d1d;
+    background-color: #676767;
+}
+
+.menu-item-span li {
+    margin-right: 10px;
+}
+
+.menu-bar{
+    display:flex;
+}
+
+.menu-item-span a {
+    display: block;
+    
+}
