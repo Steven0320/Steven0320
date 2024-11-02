@@ -6,7 +6,7 @@
 .main-header{
     color:white;
     background-color: 303841;
-    text-indent: 5px;
+    text-indent: 10px;
 
 }
 body{
@@ -23,10 +23,6 @@ body{
     border: 3px solid black;
 
 }
-/*Menu Bar*/
-.menu-bar{
-    
-}
 /*Menu Bar Links*/
 .menu-item:link{
     color:white;
@@ -38,16 +34,22 @@ body{
     color:#1d1d1d;
     background-color: #676767;
 }
-
-.menu-item-span li {
-    margin-right: 10px;
-}
-
 .menu-bar{
     display:flex;
+    list-style: none;
 }
+.menu-bar a{
+    text-decoration: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
 
-.menu-item-span a {
-    display: block;
-    
+}
+#menu{
+    float:right;
+
+}
+#heading{
+    float:left;
+font-size: 20px;;
 }
